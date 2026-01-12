@@ -10,8 +10,8 @@ import time
 import pickle
 
 
-username = 'qs243@cam.ac.uk'
-password = 'Alfred@2003'
+username = input(username)
+password = input(password)
 
 bot = webdriver.Chrome()
 bot.implicitly_wait(0.5)
