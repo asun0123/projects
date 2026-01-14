@@ -21,12 +21,12 @@ import pymysql
 #configuration
 # =============================================================================
 DB_CONFIG = {
-    'host': 'localhost',             
-    'port': 3306,                     
-    'user': 'alfredsun',        
-    'password': 'Qs-581030',     
-    'database': 'all_countries_database', 
-    'table_name': 'cleaned_all_countries_results'   
+    'host': '',             
+    'port': ,                     
+    'user': '',        
+    'password': '',     
+    'database': '', 
+    'table_name': ''   
 }
 
 USE_DATABASE = True 
